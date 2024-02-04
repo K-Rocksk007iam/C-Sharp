@@ -1,0 +1,8 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Interface\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,11 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\bin\Debug\PatternPrinting.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\bin\Debug\PatternPrinting.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\bin\Debug\PatternPrinting.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.Form1.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.Properties.Resources.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.csproj.GenerateResource.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\PatternPrinting\obj\Debug\PatternPrinting.pdb

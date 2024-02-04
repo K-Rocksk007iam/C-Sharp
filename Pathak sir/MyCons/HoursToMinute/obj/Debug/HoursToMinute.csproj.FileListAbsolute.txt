@@ -1,0 +1,8 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\bin\Debug\HoursToMinute.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\bin\Debug\HoursToMinute.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\bin\Debug\HoursToMinute.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\obj\Debug\HoursToMinute.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\obj\Debug\HoursToMinute.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\obj\Debug\HoursToMinute.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\obj\Debug\HoursToMinute.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\HoursToMinute\obj\Debug\HoursToMinute.pdb

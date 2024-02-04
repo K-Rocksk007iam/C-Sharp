@@ -1,0 +1,8 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\bin\Debug\ClassDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\obj\Debug\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\obj\Debug\ClassDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\obj\Debug\ClassDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\ClassDemo\obj\Debug\ClassDemo.pdb

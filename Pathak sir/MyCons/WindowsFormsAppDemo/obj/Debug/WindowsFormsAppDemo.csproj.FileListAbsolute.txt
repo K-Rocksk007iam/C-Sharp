@@ -1,0 +1,11 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb

@@ -1,0 +1,124 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static Dictionary<string, Customer> customerDatabase = new Dictionary<string, Customer>();
+
+    static void Main()
+    {
+        // Assume the Branch Manager is logged in and has selected an account type
+        string selectedAccountType = "Savings"; // You can modify this based on your actual implementation
+
+        // Collect customer details
+        Console.WriteLine("Customer Registration Form");
+
+        Console.Write("Enter Name: ");
+        string name = Console.ReadLine();
+
+        Console.Write("Enter Date of Birth (YYYY-MM-DD): ");
+        DateTime dob = DateTime.Parse(Console.ReadLine());
+
+        Console.Write("Enter Address: ");
+        string address = Console.ReadLine();
+
+        Console.Write("Enter Aadhar Number: ");
+        string aadharNumber = Console.ReadLine();
+
+        Console.Write("Enter Account Type: ");
+        string accountType = Console.ReadLine();
+
+        Console.Write("Enter Branch Name: ");
+        string branchName = Console.ReadLine();
+
+        // Generate a unique account number
+        string accountNumber = GenerateAccountNumber();
+
+        // Display registration details
+        Console.WriteLine("\nRegistration Successful!");
+        Console.WriteLine("Name: " + name);
+        Console.WriteLine("Date of Birth: " + dob.ToString("yyyy-MM-dd"));
+        Console.WriteLine("Address: " + address);
+        Console.WriteLine("Aadhar Number: " + aadharNumber);
+        Console.WriteLine("Account Type: " + accountType);
+        Console.WriteLine("Branch Name: " + branchName);
+        Console.WriteLine("Account Number: " + accountNumber);
+
+        // Store customer details in the database
+        Customer newCustomer = new Customer(name, dob, address, aadharNumber, accountType, branchName, accountNumber);
+        customerDatabase.Add(accountNumber, newCustomer);
+
+        // Prompt user for opening deposit
+        Console.Write("\nEnter Opening Deposit Amount: ");
+        decimal openingAmount = decimal.Parse(Console.ReadLine());
+
+        // Process the opening deposit
+        bool depositSuccessful = ProcessOpeningDeposit(accountNumber, openingAmount);
+
+        // Display deposit status
+        if (depositSuccessful)
+        {
+            Console.WriteLine("Opening Deposit Successful!");
+        }
+        else
+        {
+            Console.WriteLine("Failed to process opening deposit. Please try again.");
+        }
+
+        // Display customer details to Branch Manager
+        DisplayCustomerDetailsToBranchManager(selectedAccountType);
+
+        Console.ReadLine(); // To keep the console window open for user review
+    }
+
+    // Function to generate a unique account number (you may implement a more sophisticated logic)
+    static string GenerateAccountNumber()
+    {
+        // In a real-world scenario, you may use a combination of date, branch code, etc.
+        return Guid.NewGuid().ToString("N").Substring(0, 10).ToUpper();
+    }
+
+    // Function to simulate processing the opening deposit
+    static bool ProcessOpeningDeposit(string accountNumber, decimal openingAmount)
+    {
+        // In a real-world scenario, you would update a database or perform other necessary actions
+        // Here, we'll just simulate a successful deposit for demonstration purposes
+        return openingAmount > 0;
+    }
+
+    // Function to display customer details to the Branch Manager based on the account type
+    static void DisplayCustomerDetailsToBranchManager(string selectedAccountType)
+    {
+        Console.WriteLine($"\nCustomer Details for {selectedAccountType} Account Type:");
+
+        foreach (var customer in customerDatabase.Values)
+        {
+            if (customer.AccountType.Equals(selectedAccountType, StringComparison.OrdinalIgnoreCase))
+            {
+                Console.WriteLine($"Name: {customer.Name}, Account Number: {customer.AccountNumber}, Branch: {customer.BranchName}");
+            }
+        }
+    }
+}
+
+class Customer
+{
+    public string Name { get; }
+    public DateTime DateOfBirth { get; }
+    public string Address { get; }
+    public string AadharNumber { get; }
+    public string AccountType { get; }
+    public string BranchName { get; }
+    public string AccountNumber { get; }
+
+    public Customer(string name, DateTime dob, string address, string aadharNumber, string accountType, string branchName, string accountNumber)
+    {
+        Name = name;
+        DateOfBirth = dob;
+        Address = address;
+        AadharNumber = aadharNumber;
+        AccountType = accountType;
+        BranchName = branchName;
+        AccountNumber = accountNumber;
+    }
+}

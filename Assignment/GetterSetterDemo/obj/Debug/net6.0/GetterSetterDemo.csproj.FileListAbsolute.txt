@@ -1,0 +1,15 @@
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\bin\Debug\net6.0\GetterSetterDemo.exe
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\bin\Debug\net6.0\GetterSetterDemo.deps.json
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\bin\Debug\net6.0\GetterSetterDemo.runtimeconfig.json
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\bin\Debug\net6.0\GetterSetterDemo.dll
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\bin\Debug\net6.0\GetterSetterDemo.pdb
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.AssemblyInfoInputs.cache
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.AssemblyInfo.cs
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.dll
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\refint\GetterSetterDemo.dll
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.pdb
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\GetterSetterDemo.genruntimeconfig.cache
+C:\Users\CDAC\Downloads\.NET\Assignment\GetterSetterDemo\obj\Debug\net6.0\ref\GetterSetterDemo.dll

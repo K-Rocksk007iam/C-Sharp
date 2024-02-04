@@ -1,0 +1,11 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\bin\Debug\SerializeDeserializeDemo.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\bin\Debug\SerializeDeserializeDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\bin\Debug\SerializeDeserializeDemo.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.Form1.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.Properties.Resources.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.csproj.GenerateResource.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\SerializeDeserializeDemo\SerializeDeserializeDemo\obj\Debug\SerializeDeserializeDemo.pdb

@@ -1,0 +1,14 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\bin\Debug\Curd_EntityFramework.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\bin\Debug\Curd_EntityFramework.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\bin\Debug\Curd_EntityFramework.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.Form1.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.Properties.Resources.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.csproj.GenerateResource.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.csproj.CopyComplete
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\Curd_EntityFramework\Curd_EntityFramework\obj\Debug\Curd_EntityFramework.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwL/x2/BrD9lx1hkqpxfmUI0OzgaSbcL6CUT+Os1FdmyZvkhUAfzcE7EoQ02ePGlybhiaTqJY0RogeJ1SNzHsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\MET\\METDec23\\06Abstarct\\06Abstarct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuM4blErY0XYLJ5UXNCWd/F5YtGkASdWeXcoF/GeaAr3+qoLieQeaNn2LIDQk9HhDFMidZ2HC7GUChDwkG6wYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\MET\\METDec23\\00BasicCore\\00BasicCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

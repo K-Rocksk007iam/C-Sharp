@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvOWLMRjfJxeaZPpI6iwQZc/zNXiQrpQZ+owfWFZ3C0ghDm+lHtSW7C6kKaLxnxkQ++0P5W7CPj6UgsNchA8GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CDAC\\Downloads\\.NET\\Assignment\\classLibraryDemo\\classLibraryDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CDAC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\CDAC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\CDAC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

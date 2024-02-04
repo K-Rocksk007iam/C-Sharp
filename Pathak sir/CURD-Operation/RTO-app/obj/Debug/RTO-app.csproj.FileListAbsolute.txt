@@ -1,0 +1,14 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\bin\Debug\RTO-app.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\bin\Debug\RTO-app.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\bin\Debug\RTO-app.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\bin\Debug\EntityFramework.dll
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\bin\Debug\EntityFramework.xml
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO_app.Form1.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO_app.Properties.Resources.resources
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.csproj.GenerateResource.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.csproj.CopyComplete
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\CURD-Operation\RTO-app\obj\Debug\RTO-app.pdb

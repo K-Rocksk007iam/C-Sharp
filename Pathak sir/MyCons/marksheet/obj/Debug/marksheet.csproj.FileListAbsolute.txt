@@ -1,0 +1,8 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\bin\Debug\marksheet.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\bin\Debug\marksheet.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\bin\Debug\marksheet.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\obj\Debug\marksheet.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\obj\Debug\marksheet.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\obj\Debug\marksheet.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\obj\Debug\marksheet.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\marksheet\obj\Debug\marksheet.pdb

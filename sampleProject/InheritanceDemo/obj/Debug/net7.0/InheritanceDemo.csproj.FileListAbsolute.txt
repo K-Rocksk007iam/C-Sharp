@@ -1,0 +1,15 @@
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.exe
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.deps.json
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.runtimeconfig.json
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.dll
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.pdb
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.dll
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\refint\InheritanceDemo.dll
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.pdb
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\CDAC\Downloads\.NET\sampleProject\InheritanceDemo\obj\Debug\net7.0\ref\InheritanceDemo.dll

@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\bin\Debug\00Basic.exe.config
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\bin\Debug\00Basic.exe
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\bin\Debug\00Basic.pdb
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\obj\Debug\00Basic.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\obj\Debug\00Basic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\obj\Debug\00Basic.exe
+C:\Users\Asus\Desktop\MET\METDec23\00Basic\obj\Debug\00Basic.pdb

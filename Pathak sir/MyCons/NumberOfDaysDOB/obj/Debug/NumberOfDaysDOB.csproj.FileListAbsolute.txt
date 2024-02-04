@@ -1,0 +1,8 @@
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\bin\Debug\NumberOfDaysDOB.exe.config
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\bin\Debug\NumberOfDaysDOB.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\bin\Debug\NumberOfDaysDOB.pdb
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\obj\Debug\NumberOfDaysDOB.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\obj\Debug\NumberOfDaysDOB.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\obj\Debug\NumberOfDaysDOB.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\obj\Debug\NumberOfDaysDOB.exe
+C:\Users\CDAC\Downloads\.NET\Pathak sir\MyCons\NumberOfDaysDOB\obj\Debug\NumberOfDaysDOB.pdb
